@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/OBT_LEB/static/css/main.4808d656.css",
+    "main.js": "/OBT_LEB/static/js/main.47f4810c.js",
+    "static/media/bgIMG.png": "/OBT_LEB/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/OBT_LEB/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/human.png": "/OBT_LEB/static/media/human.2a913083bfdd19624559.png",
+    "static/media/logoUPdated.jpeg": "/OBT_LEB/static/media/logoUPdated.a333c5ab70856a595c96.jpeg",
+    "index.html": "/OBT_LEB/index.html",
+    "static/media/circle.svg": "/OBT_LEB/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.4808d656.css.map": "/OBT_LEB/static/css/main.4808d656.css.map",
+    "main.47f4810c.js.map": "/OBT_LEB/static/js/main.47f4810c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4808d656.css",
+    "static/js/main.47f4810c.js"
+  ]
+}
